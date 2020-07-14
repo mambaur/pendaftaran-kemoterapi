@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\ASUS\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\ASUS\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\ASUS\source\repos\Login\Login\bin\Debug\Login.xml
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\loginForm.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\loginForm.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\loginForm.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\Login.xml
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\Login.home.resources
+C:\Users\ASUS\source\repos\Login\Login\obj\Debug\Login.login.resources
